@@ -18,3 +18,10 @@ Así pues, Github es un portal para gestionar las aplicaciones que utilizan el s
 
 El Open Source arrasa y vive una época dorada, pero también hay algo de postureo
 EN XATAKA
+
+
+modificado 12:41
+
+AWzesxrcftvybghunijmkocdc
+dcwfvrgbthynumi
+cefrvgtbhynjumio,cfgvrtbhynjum,
