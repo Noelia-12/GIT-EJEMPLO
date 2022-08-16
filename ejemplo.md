@@ -13,3 +13,8 @@ Github es un portal creado para alojar el código de las aplicaciones de cualqui
         color: black;
     }
 </style>
+
+Así pues, Github es un portal para gestionar las aplicaciones que utilizan el sistema Git. Además de permitirte mirar el código y descargarte las diferentes versiones de una aplicación, la plataforma también hace las veces de red social conectando desarrolladores con usuarios para que estos puedan colaborar mejorando la aplicación.
+
+El Open Source arrasa y vive una época dorada, pero también hay algo de postureo
+EN XATAKA
